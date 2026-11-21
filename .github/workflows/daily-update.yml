@@ -1,0 +1,46 @@
+name: Daily Ukraine news update
+on:
+  schedule:
+    - cron: '20 0 * * *' # 09:20 JST every day (GitHub schedule may be delayed)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh news data
+        run: python scripts/update.py
+      - name: Commit data if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh Ukraine news map'
+            git push
+          fi
+      - name: Prepare public site
+        run: |
+          mkdir public
+          cp index.html data.json public/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish updated map
+        id: deployment
+        uses: actions/deploy-pages@v4
