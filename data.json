@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-11-21T07:00:00Z",
+  "items": [
+    {"id":"kyiv-20261120","title":"キーウの橋梁と重要インフラに大規模攻撃","summary":"11月19〜20日のロシア軍による大規模なミサイル・ドローン攻撃で、キーウの橋梁や水道・電力関連施設が被害を受けた。","date":"2026-11-20","source":"Reuters","url":"https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/","place":"キーウ","lat":50.4501,"lon":30.5234,"category":"military"},
+    {"id":"lviv-20261120","title":"リヴィウの鉄道施設付近でも死者","summary":"ロシア軍の広域攻撃でリヴィウの鉄道施設が被害を受け、死者が報告された。","date":"2026-11-20","source":"Reuters","url":"https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/","place":"リヴィウ","lat":49.8397,"lon":24.0297,"category":"military"},
+    {"id":"poland-20261120","title":"ポーランド領空にミサイル・ドローンが侵入","summary":"ポーランド当局はロシア由来とみられる飛翔体3件の領空侵犯を発表。NATO機が緊急発進し、当局が調査している。","date":"2026-11-20","source":"AP","url":"https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07","place":"ポーランド南東部","lat":50.58,"lon":22.54,"category":"nato"},
+    {"id":"kerch-20261120","title":"クリミア橋への攻撃と補給路への影響","summary":"ウクライナによるクリミア橋への攻撃を受け、ロシア側の交通・補給への影響が報告されている。","date":"2026-11-20","source":"ISW","url":"https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-20-2026/","place":"クリミア橋","lat":45.30,"lon":36.51,"category":"military"},
+    {"id":"kharkiv-20261120","title":"ハルキウ方面の軍事作戦に動き","summary":"ISWはハルキウ州北部におけるウクライナ軍の作戦と、ロシア側の戦況主張との相違を分析した。","date":"2026-11-20","source":"ISW","url":"https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-20-2026/","place":"ハルキウ州","lat":49.9935,"lon":36.2304,"category":"military"},
+    {"id":"moldova-20261120","title":"モルドバ領空でもドローン侵入を報告","summary":"ISWは11月20日、モルドバ領空にドローン2機が侵入したとする報告を掲載した。","date":"2026-11-20","source":"ISW","url":"https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-20-2026/","place":"モルドバ","lat":47.01,"lon":28.86,"category":"nato"}
+  ]
+}
