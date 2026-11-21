@@ -1,6 +1,6 @@
 # Ukraine Situation Map
 
-日本語のニュース地図。Leaflet + OpenStreetMap/CARTO タイル、静的 JSON データ、GitHub Actions による毎日の自動収集で動作します。
+日本語のニュース地図。Leaflet + OpenStreetMap タイル、静的 JSON データ、GitHub Actions による毎日の自動収集で動作します。
 
 ## 公開方法
 
