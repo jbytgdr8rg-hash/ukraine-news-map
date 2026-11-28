@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-27T08:35:37+00:00",
+  "updated_at": "2026-11-28T07:50:21+00:00",
   "items": [
+    {
+      "id": "fe38a98d4008b749",
+      "title": "Russia says Zelensky is sabotaging peace talks, but Kyiv points to Moscow's rejected ceasefire proposals - Latin Times",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-28",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1JSm5WWWdvX0VQYmdDWjB1MkFpenVNTG1pdFlvUkl1eVQ2WEFBTHlrbF94eWkzbXRJNnQ5ZnVuaGIxVWlEeEhmb052eUZFRnVXTEJVQzhvb1JDYXN1RU1pWmZFSi1yQmhiVDc1X3hnM2kwLXFUQi1fajRlZFBIdF9n?oc=5",
+      "place": "キーウ",
+      "lat": 50.4501,
+      "lon": 30.5234,
+      "category": "diplomacy"
+    },
     {
       "id": "5e258afccfcca879",
       "title": "Estonia Calls for Stronger EU Border Defence and Funding for Ukraine - Oj - Odessa Journal",
@@ -11,6 +23,42 @@
       "place": "オデーサ",
       "lat": 46.4825,
       "lon": 30.7233,
+      "category": "nato"
+    },
+    {
+      "id": "736b86af7c49f7ce",
+      "title": "Ukrainian forces strike ballistic missile fuel production plant in Russia's Tula Oblast, military confirms - The Kyiv Independent",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-27",
+      "source": "The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDhsVl9zYjladkpJZk5sV1g5UjFrWjdxUFlIc0htd3dzeDVxeks0ZV9hVVM1eVZvN3ZKZ0FFOUY3a3lMSzhSblVRR0w3V0RONVJFU1VpS2hOYmg4aEhKcXUtMHZERjV4QU5lNG5wS0ZxUXU0a0FmR00wX0pGOUVDV2V2aDR3ZFZabW1jVktFVHdMSWJBeG9BRzRVLUM0TkhDTkthREZNUzY3YjdRV0lmcFVaOFNJTGlaNHJTZkpwU0ZLeC1vYjRRSWV0UHd1Z2c?oc=5",
+      "place": "キーウ",
+      "lat": 50.4501,
+      "lon": 30.5234,
+      "category": "military"
+    },
+    {
+      "id": "b4a345a05b47fbed",
+      "title": "Warsaw accuses Moscow of deliberately firing cruise missiles into Poland to test NATO response - The New Voice of Ukraine",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-27",
+      "source": "The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUk4tSnptbmZpLXp3MUk4elc2OVg0blJtbjFWNzBEbzJnbWdaNU5JSUxKelc4Zy1iQ2pvNW5yYjVteE1ZNTJMbXU5MDMyMS1GSVFRSEhwbHB1OXd2b25FUm45MXBNeGJuS3o0RWd5R0E2V2hlVlhsMHN4RnFkclM2T2pSTm1xem1nS0RtRVRHb0NVNWl2YmVSYW9OV1plSFljeDZzSWZDZC1iQ1Z0NmRWNHhzU3JyWlR3eTltTTdTdG1SSjE5RkxWbU5vNNIBxwFBVV95cUxONk1oZF82U3RNVEVlOVFfRjVzQ3BTb2NoNThDWjdITUNkS2VvYVBhSEhqSTJaems1QmJKLUJlQnd2YVNRZmdLdWdKdFNoaGN0SDUtZ1hHUkx6SWRxTzY5bEZtV20yVDViMDUwdUJROWQyMHZNN0FDRkJhWWNINWt5ODZfc01yVG9tSFFfN3Njb3BXN1dnNV9nbGsyTFp2M0RoREJRSGxSRlpMd2tHMXNTRmpYRjI5b1JNRHBjSnVBaUptX2V5eWg0?oc=5",
+      "place": "ポーランド南東部",
+      "lat": 50.58,
+      "lon": 22.54,
+      "category": "nato"
+    },
+    {
+      "id": "85945e9c10500b4d",
+      "title": "Poland Plans No-Fly Zone Along Ukraine, Belarus Border - Wisevoter",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-27",
+      "source": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQVVURHVfelRtc2RYOWZucDIwRE96Wk9IOEpRVUxub1U0ZlN6am5Kb1R4N3B2Q2JiR1NQZ2xxYVRzM01JMTFfaS1pNmxLTEl6T3J0RXFsY3NPY0Q1eHliV3dwb05pd3c2QkZPMjBic1FkbXAwWWUtZVJ2dVA?oc=5",
+      "place": "ポーランド南東部",
+      "lat": 50.58,
+      "lon": 22.54,
       "category": "nato"
     },
     {
@@ -242,6 +290,42 @@
       "category": "nato"
     },
     {
+      "id": "44d51ae40e80b3cc",
+      "title": "Russia strikes Kyiv with ballistic missiles and Kharkiv with drones, injuring 10 and killing two – Rubryka - Rubryka",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-26",
+      "source": "Rubryka",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlVGtkZ29faGZ5X0E0Tk5POVNrUXlPX05VUmRSS2FjNnZlUm5LQURxVWxTTmE0ZmFXMzZQYm1ZNTllSExsMFlDR0N5MEMzZjRyUzNOdW5BOUVDWEQ3WVBIVTg5OGh2OHdIUDYxaWRB?oc=5",
+      "place": "キーウ",
+      "lat": 50.4501,
+      "lon": 30.5234,
+      "category": "military"
+    },
+    {
+      "id": "8ac8616dea068b84",
+      "title": "The Prospekt shopping and entertainment center in Kyiv remains open following a Russian ballistic missile strike - UA.NEWS",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-26",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFV4Q0t0TWdPTDd6Q0ZkTFZwVHZkOHJwTFZKOG4wX2tIcmEtd1Vnc0JnaXFmMFZYTWRJNDI1bGtOb1pzUmk0TE5aUGwyZjBBZDJESm1qNGxDR1gyQnFPd1UzMU1RWk1aZVdRZEFjbl9maURSZFR5N0Vhb3lmTDlWU245eE1aVExuMHJMcW1aRmJRaDFZX3lWOXJiQjN1Zk1wN2ZXY0V6WVg?oc=5",
+      "place": "キーウ",
+      "lat": 50.4501,
+      "lon": 30.5234,
+      "category": "military"
+    },
+    {
+      "id": "0012977e1488b5ba",
+      "title": "Poland Plans No-Fly Zone on Eastern Border to Ease Downing of Russian Missiles - The Defense Post",
+      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
+      "date": "2026-11-26",
+      "source": "The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iejdLazI0TThWeGZIX3FJQ1UwQ1RWaU9fM2hvd0d2OHk1eFRKczY2Ni1RWW55Z0FMV2JBRWNoRjdzVm5oVDU3TGsyWEhaY3hGaU16bGdOS3ZHNXM1a2Y4R1MzOFYtNGxsQ3J1a2130gFuQVVfeXFMTWJ6N0trMjRNOFZ4ZkhfcUlDVTBDVFZpT18zaG93R3Y4eTV4VEpzNjY2LVFZbnlnQUxXYkFFY2hGN3NWbmhUNTdMazJYSFpjeEZpTXpsZ05Ldkc1czVrZjhHUzM4Vi00bGxDcnVrbXc?oc=5",
+      "place": "ポーランド南東部",
+      "lat": 50.58,
+      "lon": 22.54,
+      "category": "nato"
+    },
+    {
       "id": "79558774e7cd12e6",
       "title": "Zelensky Eyes Democrat-Controlled Congress for Weapons, Tougher Sanctions if Trump’s Peace Push Fails - Kyiv Post",
       "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
@@ -452,90 +536,6 @@
       "date": "2026-11-25",
       "source": "Business Upturn",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb3JlYTVhRVJ4LU94YXRib2RTZ1E5RllqSkFSdlhpVllzT0otSUx5aHB0TWVNaFJPNVljdk8wOFIySmdpVzdQS0dZY0d5ZHJoWmV4NlJmOXBVbkNGQUpzd2duUjBORUJkckZ2V09zTC15WmJvMmZkRWpIWlA3UTIyaWFHNGdWdHJJS3FHMzd6WEtkUzJtZFc2eWdCMWxYOGlUS1BDd3paSW40UG9FT2ZLNzNjaG5JUEhrSGNBQVhmYmRtaTdobkx2MnQ4N25aSlJnU2VMQQ?oc=5",
-      "place": "ポーランド南東部",
-      "lat": 50.58,
-      "lon": 22.54,
-      "category": "nato"
-    },
-    {
-      "id": "45ab5ecf65d49421",
-      "title": "Poland Plans No-Fly Zone Along Ukraine Border Amid NATO Rejection of Striking Russian Targets - 112.ua",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "112.ua",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVlBMmVkUjlSTWZLWTJEQ3g4NklhVkNYejNyMzlDd2h0QTAwaGlqaEJtNmJjWFVJcmJ4NFZaMjdSNlk1M1ZXWFBEWUZGTFQ4dW9QV21OdTBqdWcwYlhhZUgtUjl6VWhpNkQ2TVJnVjB6Yl8wSUtpdG9mRHdOc29WVXlIVDZpbTVUS3RWUTJzSTZWeFNEeEQxR0QzalNMREZ2VGpoSG5wb2ZiUGxvaXBwb1BpV3MtNmxmX25J?oc=5",
-      "place": "ポーランド南東部",
-      "lat": 50.58,
-      "lon": 22.54,
-      "category": "nato"
-    },
-    {
-      "id": "0531217c1b3143af",
-      "title": "Main - Odessa Journal",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Odessa Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTdYelpqakpBZmQ3R1pwN2hCTXFqNUlSS1pjWmVzS1lVYkhWcERSdHJQZUdKd3JQUEt4TUdpdklBbzN0b2ZweEt4TW45TXRQVVpWLWVWTlRhTmJUWUFHSnFXYmoydU9vVjVLX2NKX1otOGpJSlZiM29pVktSVlI1Nm1aTVcyaVVJZ2s0bjRYdnJRYUZoYjE2UThPeUhLc2hudDdScFJMUmtudw?oc=5",
-      "place": "オデーサ",
-      "lat": 46.4825,
-      "lon": 30.7233,
-      "category": "military"
-    },
-    {
-      "id": "829617967bb7b98c",
-      "title": "US Embassy Reiterates Travel Warning for Ukraine - Oj - Odessa Journal",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Odessa Journal",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdW03MFQ3YkpRVXNHdTB2TkRQeHd2Z2FrbkprMHRtZFNyaHRQSFM4V3Y3UkJVSnJES2xNMG5MT2VDVFJlak5EQkFaUFBzRnZaNS1ib3B4a1dVUDl4Z1dqMU5QdXZjOUFUYTZxSTUtRjVCX0hVOUJjNFltd2ZfS2lhbkhEcWtJakNweEFiN3FoMGxBYnkzN2o4?oc=5",
-      "place": "オデーサ",
-      "lat": 46.4825,
-      "lon": 30.7233,
-      "category": "military"
-    },
-    {
-      "id": "ce65e42be9d0203d",
-      "title": "EU Proposes €45 Billion Financing Package for Ukraine in 2027 - Oj - Odessa Journal",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Odessa Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVF95Zk5oQnd0aUVyaDBmbk54RmF0QWNLNGxRTzlEZ3djcEI0TjlXY0QwNnVlTXVsX2JNY3RkTVJFRmpDTWlLWWYwYnBqWFJQY1EteUZSdFlYVm03U3JHQXN1djF3bDU2dS1VQWFyYUxuR2p2V2dzamNRRTdUQ29FR3huMGdDWlB4RmdIcXBESWR0UVVjVjFTXw?oc=5",
-      "place": "オデーサ",
-      "lat": 46.4825,
-      "lon": 30.7233,
-      "category": "military"
-    },
-    {
-      "id": "5e170b3560bcedf7",
-      "title": "All talk, no proposals? Lavrov accuses Brussels of ‘megaphone diplomacy’ over Ukraine | Russia, EU | Hindustan Times - Hindustan Times",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVkVrZFFzaFMyZ2dZcVJGcDFwUUc1MmtTaUh2eDkxbFJvcVJaUDRQQWFtRklSRkI4VXk2b2htZGZSaG5EelQyUWxneC0xaWcwaFBUQXE2blR0UExBSHctbURXWDNWRGI1dUZLVnZEcGZIeFk3REdmWHpRVWt4RXFlRHl1V3BlT25DYUJNUUdPM2F4OFhWVk84YWZqTWVaX2lJTVFUQ2puMjgtRDVZZ000N2tYLTFMV05PblU1M3RfT0xjMGhYVzNaSE9jVnJkQkFyLTJkNndJcVBnMGRDbkk2R01QcU56UVVjMVhMdUNWak5kV2_SAfgBQVVfeXFMUEkwUjR2NjN6M0JZLThRSzEzRFNuUS1UZ3dncm5GNUFYa0Z1c2pDRDJseEJyNlVRb3M3X28yZ0J5V0xzYnJmWkx6S2JsVmx3NHo5ZXF6SFJyREN4b3I1d2djRy0tTDBYZ2s3anRfaU9TZWZaYmItOUc0VTRIejNmYUFULS1rNFVVUW9RUlZ1c08zYy00d1NRZXU2XzRTdkdIU1A0ZXNUNnRBY0d1TUZQWE8yTFl2ckE1MnQ4MGNIQlhQdm9WZTRSdDJibGszX3hPR2xFNkZoT1VITVZPQW5MdmtleVU0YzF6WkdGeUNCVUNVOWtJNHNrVEM?oc=5",
-      "place": "ブリュッセル",
-      "lat": 50.8503,
-      "lon": 4.3517,
-      "category": "diplomacy"
-    },
-    {
-      "id": "64e6188c2fd44049",
-      "title": "Russian forces hit Kyiv with ballistic missiles, seven wounded, mayor says - Reuters",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
-      "place": "キーウ",
-      "lat": 50.4501,
-      "lon": 30.5234,
-      "category": "military"
-    },
-    {
-      "id": "23f8408509ae5d91",
-      "title": "Poland plans no-fly zone on eastern border to aid downing of Russian missiles - Notes From Poland",
-      "summary": "報道見出しに基づく自動収集記事。事実関係・場所・日時はリンク先の原文で確認してください。",
-      "date": "2026-11-25",
-      "source": "Notes From Poland",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGNab1E2cS1CVXlDdVR6YmkwTk12V0o0RXY2YWlIQjRHTkNqYVNoY2RxWGRoOWNnYnlqQXk1alR3Q2F2XzVQaGJwWW1QakFOVXFjSS10cjJ5Sm1kSXJ6a0FFcjRTcFFzLWU0aVpMcDZHR1JLSzJLb2xRbFZPc0tGUEtjVjQ1YmRqdU9ZT0JKdU05M1dxeHpXcUJ5U05DYXJSbXRuazJmMUhuX0FfckdSQ1l2NExTOS03?oc=5",
       "place": "ポーランド南東部",
       "lat": 50.58,
       "lon": 22.54,
